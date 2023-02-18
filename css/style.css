@@ -1,0 +1,43 @@
+
+.bn{
+    border: none;
+   background-color: #96AC73;
+   color: aliceblue;
+   font-size: 35px;
+}
+.kl{
+    text-align: center;
+    color: #96AC73;
+}
+.navbar-brand:hover{
+    text-shadow: 5px 5px 20px #96AC73,
+                 -5px -5px 20px #96AC73 ;
+}
+
+.online{
+    background-image: url(../imgs/r1.webp);
+}
+.imgg2 {
+    background-image: url(../imgs/d2.webp);
+}
+
+.imgg {
+    background-attachment: fixed;
+    background-size: cover;
+    height: 250px;
+}
+.fixx2 {
+    background-image: url(../imgs/w2.webp);
+}
+
+.fixx {
+    background-attachment: fixed;
+    background-size: cover;
+    height: 250px;
+}
+
+.mbn li{
+    padding-right:20px;
+}
+
+
